@@ -1,0 +1,20 @@
+bemenetek
+legközelebbi resource és annak távolsága
+mennyi hely van még nála
+legközelebbi város
+hol tartunk az est-nap ciklusban
+először workerenként legyen 1 model
+tud-e építeni vajon (100 resource és üres a mező)
+városok resource mennyisége
+város resource igénye
+
+metrikák
+nyersanyagot szerez a unit jó
+worker építés jó
+város építés jó
+ha ugynarra akar a tile-ra lépni két unit akk az rossz
+hátizsák*város távorság + (1-hátizsák)* resource táv
+
+
+
+
